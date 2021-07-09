@@ -1,1 +1,1 @@
-# Memristor-Nengo
+# library code
